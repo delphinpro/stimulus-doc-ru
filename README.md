@@ -14,6 +14,7 @@
 
 Справка
 
+* [Действия (Actions)](actions.md)
 * [Объекты (Targets)](targets.md)
 * [Переменные контроллера (Values)](values.md)
 * [CSS классы](css_classes.md)
