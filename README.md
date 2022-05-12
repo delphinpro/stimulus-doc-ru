@@ -14,6 +14,7 @@
 
 Справка
 
+* [Контроллеры](controllers.md)
 * [Хуки жизненного цикла](lifecycle.md)
 * [Действия (Actions)](actions.md)
 * [Объекты (Targets)](targets.md)
