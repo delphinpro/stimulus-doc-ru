@@ -1,5 +1,14 @@
 # Контроллеры
 
+-----
+* Контроллеры
+* [Хуки жизненного цикла](lifecycle.md)
+* [Действия (Actions)](actions.md)
+* [Объекты (Targets)](targets.md)
+* [Переменные контроллера (Values)](values.md)
+* [CSS классы](css_classes.md)
+-----
+
 Контроллер – это основная организационная единица приложения Stimulus.
 
 ```javascript
@@ -199,3 +208,11 @@ class MyController extends Controller {
     }
 }
 ```
+
+-----
+* Контроллеры
+* [Хуки жизненного цикла](lifecycle.md)
+* [Действия (Actions)](actions.md)
+* [Объекты (Targets)](targets.md)
+* [Переменные контроллера (Values)](values.md)
+* [CSS классы](css_classes.md)

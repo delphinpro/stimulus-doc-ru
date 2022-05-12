@@ -1,5 +1,14 @@
 # CSS классы
 
+-----
+* [Контроллеры](controllers.md)
+* [Хуки жизненного цикла](lifecycle.md)
+* [Действия (Actions)](actions.md)
+* [Объекты (Targets)](targets.md)
+* [Переменные контроллера (Values)](values.md)
+* CSS классы
+-----
+
 В HTML класс CSS определяет набор стилей, которые могут быть применены к элементам с помощью атрибута `class`.
 
 CSS classes are a convenient tool for changing styles and playing animations programmatically. For example, a Stimulus controller might add a “loading” class to an element when it is performing an operation in the background, and then style that class in CSS to display a progress indicator:
@@ -129,3 +138,12 @@ export default class extends Controller {
 ```
 
 При создании атрибутов классов CSS следуйте соглашениям для идентификаторов, описанным в разделе [Контроллеры: Соглашения об именовании](controllers.md#naming_convention).
+
+-----
+* [Контроллеры](controllers.md)
+* [Хуки жизненного цикла](lifecycle.md)
+* [Действия (Actions)](actions.md)
+* [Объекты (Targets)](targets.md)
+* [Переменные контроллера (Values)](values.md)
+* CSS классы
+-----

@@ -1,5 +1,14 @@
 # Переменные контроллера (Values)
 
+-----
+* [Контроллеры](controllers.md)
+* [Хуки жизненного цикла](lifecycle.md)
+* [Действия (Actions)](actions.md)
+* [Объекты (Targets)](targets.md)
+* Переменные контроллера (Values)
+* [CSS классы](css_classes.md)
+-----
+
 Вы можете читать и записывать [атрибуты данных HTML](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/data-*) на элементах контроллера как типизированные переменные, используя специальные свойства контроллера.
 
 ```html
@@ -138,3 +147,12 @@ export default class extends Controller {
 ## Соглашение об именовании
 
 Записывайте имена значений в camelCase в JavaScript и kebab-case в HTML. Например, значение с именем `contentType` в контроллере `loader` будет иметь связанный с ним атрибут данных `data-loader-content-type-value`.
+
+-----
+* [Контроллеры](controllers.md)
+* [Хуки жизненного цикла](lifecycle.md)
+* [Действия (Actions)](actions.md)
+* [Объекты (Targets)](targets.md)
+* Переменные контроллера (Values)
+* [CSS классы](css_classes.md)
+-----

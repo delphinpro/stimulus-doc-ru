@@ -1,5 +1,14 @@
 # Действия (Actions)
 
+-----
+* [Контроллеры](controllers.md)
+* [Хуки жизненного цикла](lifecycle.md)
+* Действия (Actions)
+* [Объекты (Targets)](targets.md)
+* [Переменные контроллера (Values)](values.md)
+* [CSS классы](css_classes.md)
+-----
+
 Действия – это то, как вы обрабатываете события DOM в своих контроллерах.
 
 ```html
@@ -215,3 +224,12 @@ upvote({ params: { id, url } }) {
     console.log(url); // "/votes"
 }
 ```
+
+-----
+* [Контроллеры](controllers.md)
+* [Хуки жизненного цикла](lifecycle.md)
+* Действия (Actions)
+* [Объекты (Targets)](targets.md)
+* [Переменные контроллера (Values)](values.md)
+* [CSS классы](css_classes.md)
+-----
