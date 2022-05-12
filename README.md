@@ -14,4 +14,5 @@
 
 Справка
 
+* [Переменные контроллера (Values)](values.md)
 * [CSS классы](css_classes.md)
